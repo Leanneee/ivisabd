@@ -1,0 +1,5 @@
+div.header,.infobox,.infoboxoff,.footer,.printme,.shownav,.actionbutton{display:none}#container{background-image:none}body{background-color:#FFF;font-size:16px}textarea{width:600px;height:240px}input[type="text"]{width:600px;height:25px;font-size:21px}input[type="checkbox"],input[type="radio"]{height:25px}input[type="submit"]{display:none}.breadcrumbs{display:none}.xtranav,.xtranavleft,.xtranavright,.xtranav a,.xtranav img,.xtranav
+form{display:none}fieldset,fieldset
+fieldset{border:none;padding:0px;margin:0px;margin-top:10px;margin-bottom:10px}legend{margin:0px;padding:0px}#allcontainer{}table th,table
+td{border:1px
+solid #000}.listtable{display:none;letter-spacing:2em;word-spacing:2em}

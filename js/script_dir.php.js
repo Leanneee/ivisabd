@@ -1,0 +1,1 @@
+var script_dir="//fivestarvisas.com/";
